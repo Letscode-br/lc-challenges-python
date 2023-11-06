@@ -8,3 +8,6 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 `script_solution1.py`: script com a solução do problema. 
 # Curso Digital - Git diff:
 #Salvando modificações no GIT
+## Salvando modificações no GIT da aula 6
+
+* Uso do comando Restore
