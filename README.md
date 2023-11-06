@@ -11,3 +11,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## Salvando modificações no GIT da aula 6
 
 * Uso do comando Restore
+- Uso do comando git restore
+*Comando Git Push
